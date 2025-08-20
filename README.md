@@ -31,3 +31,13 @@ in the build.gradle if your main class has changed.
 
 You can refer our help documents [here](https://help.geektrust.in)
 You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
+
+
+
+# Geektrust MyMoney Backend Challenge evaluation result :
+
+![MyMoney_Score.jpg](images%2FMyMoney_Score.jpg )
+![MyMoney_Badges.jpg](images%2FMyMoney_Badges.jpg)
+![MyMoney_Readability.jpg](images%2FMyMoney_Readability.jpg)
+![MyMoney_Maintainability.jpg](images%2FMyMoney_Maintainability.jpg)
+![MyMoney_Build.jpg](images%2FMyMoney_Build.jpg)
